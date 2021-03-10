@@ -1,3 +1,3 @@
 class TestClass {
-  String a = 'a';
+  String a = 'b';
 }
